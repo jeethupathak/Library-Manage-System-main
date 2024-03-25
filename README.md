@@ -140,7 +140,7 @@ Click `Add Book` and enter `Book Name` , `Author` and `Inventory`
       <br>Swing
     </td>    
 <td align="center" width="100">
-        <img src="image/eclipse.png" width="48" height="48" alt="Java" />
+        <img src="Library-Manage-System-main/image/eclipse.png" width="48" height="48" alt="Java" />
       <br>Eclipse
     </td>
 <td align="center" width="100">
