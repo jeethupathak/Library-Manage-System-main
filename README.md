@@ -1,5 +1,13 @@
 # 📚 Library-Management-System 
-<a href="https://github.com/jeethupathak" style="color: black; text-decoration: none;">Profile</a>
+<style>
+  .custom-link {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+</style>
+<a href="https://github.com/jeethupathak" class="custom-link">Profile</a>
+
 
 ## Objective/ Vision <img src="https://img.icons8.com/?size=48&id=LZtGgAmh0n0e&format=png" width="30" height="30" alt="" />
 
