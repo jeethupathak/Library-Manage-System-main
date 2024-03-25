@@ -122,21 +122,21 @@ Click `Add Book` and enter `Book Name` , `Author` and `Inventory`
     
   <tr>
      <td align="center" width="100">
-        <img src="image/java.png" width="48" height="48" alt="javascript" />
+        <img src="Library-Manage-System-main/image/java.png" width="48" height="48" alt="javascript" />
       <br>Java 
     </td>
       <td align="center" width="100">
-        <img src="image/mysql.png" width="45" height="45" alt="HTML" />
+        <img src="Library-Manage-System-main/image/mysql.png" width="45" height="45" alt="HTML" />
       <br>My SQL
     </td>
    <td align="center" width="100">
-        <img src="image/jdbc.png" width="48" height="48" alt="CSS" />
+        <img src="Library-Manage-System-main/image/jdbc.png" width="48" height="48" alt="CSS" />
       <br>JDBC
     </td>
    </tr>
    <tr>
 <td align="center" width="100">
-        <img src="image/swing.png" width="48" height="48" alt="Vuejs" />
+        <img src="Library-Manage-System-main/image/swing.png" width="48" height="48" alt="Vuejs" />
       <br>Swing
     </td>    
 <td align="center" width="100">
@@ -144,7 +144,7 @@ Click `Add Book` and enter `Book Name` , `Author` and `Inventory`
       <br>Eclipse
     </td>
 <td align="center" width="100">
-        <img src="image/github.png" width="48" height="48" alt="Vuejs" />
+        <img src="Library-Manage-System-main/image/github.png" width="48" height="48" alt="Vuejs" />
       <br>GitHub
     </td> 
   </tr> 
