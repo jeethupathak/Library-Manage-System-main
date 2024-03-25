@@ -122,29 +122,29 @@ Click `Add Book` and enter `Book Name` , `Author` and `Inventory`
     
   <tr>
      <td align="center" width="100">
-        <img src="Tools/java.png" width="48" height="48" alt="javascript" />
+        <img src="image/java.png" width="48" height="48" alt="javascript" />
       <br>Java 
     </td>
       <td align="center" width="100">
-        <img src="Tools/mysql.png" width="45" height="45" alt="HTML" />
+        <img src="image/mysql.png" width="45" height="45" alt="HTML" />
       <br>My SQL
     </td>
    <td align="center" width="100">
-        <img src="Tools/jdbc.png" width="48" height="48" alt="CSS" />
+        <img src="image/jdbc.png" width="48" height="48" alt="CSS" />
       <br>JDBC
     </td>
    </tr>
    <tr>
 <td align="center" width="100">
-        <img src="Tools/swing.png" width="48" height="48" alt="Vuejs" />
+        <img src="image/swing.png" width="48" height="48" alt="Vuejs" />
       <br>Swing
     </td>    
 <td align="center" width="100">
-        <img src="Tools/eclipse.png" width="48" height="48" alt="Java" />
+        <img src="image/eclipse.png" width="48" height="48" alt="Java" />
       <br>Eclipse
     </td>
 <td align="center" width="100">
-        <img src="Tools/github.png" width="48" height="48" alt="Vuejs" />
+        <img src="image/github.png" width="48" height="48" alt="Vuejs" />
       <br>GitHub
     </td> 
   </tr> 
