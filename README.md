@@ -1,4 +1,6 @@
 # Library-Manage-System
+##Objective/ Vision
+A library management software where admin can add/view/delete librarian and librarian can add/view books, issue, view issued books and return books.
 ## Introduction
 
 1. Implement a simple Library Manage System with the following function :
