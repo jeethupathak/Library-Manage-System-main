@@ -1,5 +1,5 @@
 # 📚 Library-Management-System 
-<a href="https://github.com/jeethupathak" style="text-decoration: none; color: #24292e; background-color: #f1f8ff; padding: 5px 10px; border-radius: 5px; border: 1px solid #c8e1ff;">Profile</a>
+<a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
 
 ## Objective/ Vision <img src="https://img.icons8.com/?size=48&id=LZtGgAmh0n0e&format=png" width="30" height="30" alt="" />
 
