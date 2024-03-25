@@ -39,7 +39,7 @@ Import `Dump20210610.sql` into database
 
 #### 3. Set Database userAccount and userPassword  
 `File : LibraryManageSystem/src/development/jdbcConnection.java`  
-Modify `String dbUser = "root";` `String daPassword = "1234";` to your own dbUser and dbPassword  
+Modify `String dbUser = "root";` `String daPassword = "jeethu123";` to your own dbUser and dbPassword  
 ```java
 public static Connection dataBaseConnection() {
   Connection myConnection = null;
