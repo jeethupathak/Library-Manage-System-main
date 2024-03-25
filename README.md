@@ -1,5 +1,5 @@
 # Library-Manage-System
-## Objective/ Vision ![opportunity](https://github.com/jeethupathak/Library-Manage-System-main/assets/118836027/fea9d955-17f7-4d90-8fa9-95cbd5ae81b1)
+## Objective/ Vision <img src="Library-Manage-System-main/image/jdbc.png" width="48" height="48" alt="CSS" />
 
 A library management software where admin can add/view/delete librarian and librarian can add/view books, issue, view issued books and return books.
 ## Introduction
