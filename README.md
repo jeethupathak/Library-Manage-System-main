@@ -1,11 +1,4 @@
 # 📚 Library-Management-System 
-<style>
-  .custom-link {
-    color: black;
-    text-decoration: none;
-    cursor: pointer;
-  }
-</style>
 <a href="https://github.com/jeethupathak" class="custom-link">Profile</a>
 
 
