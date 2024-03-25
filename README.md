@@ -1,6 +1,5 @@
 # Library-Manage-System
 ## Objective/ Vision 
-<img src="https://th.bing.com/th/id/OIP._uEWqwtLUigR-wVdW0ExawHaHa?w=205&h=205&c=7&r=0&o=5&dpr=1.1&pid=1.7" width="40" height="40" alt="" />
 A library management software where admin can add/view/delete librarian and librarian can add/view books, issue, view issued books and return books.
 ## Introduction
 
